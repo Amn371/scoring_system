@@ -1,9 +1,9 @@
 
 questions = [
-    ("say my name.", "amn"),
+    ("what is my name? ","amn"),
     ("what is my year of birth ", "2007"),
-    ("What color is the sky on a clear day?", "blue"),
-    ("what is my name? ","amn")
+    ("where am I from ?", "egypt"),
+    ("say my name.", "amn")
 ]
 
 win_score=25
